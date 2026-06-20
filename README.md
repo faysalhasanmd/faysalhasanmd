@@ -4,15 +4,10 @@
 
 ## 👨‍💻 About Me
 
-Hey! I'm **Md. Faysal Hasan** — a student who fell in love with coding and never looked back.
-I build things for the web using the **MERN Stack** and I genuinely enjoy every part of it,
-from designing the UI to making the server work just right.
+I'm **Md. Faysal Hasan**, a passionate **MERN Stack Developer** and student from Bangladesh.
+I love building clean, real-world web apps — from UI to server — using **MongoDB, Express.js, React, Next.js & Node.js**.
 
-Right now I'm deep into **MongoDB, Express.js, Next.js, React & Node.js** — always building, always breaking things, always learning. That's just how it goes!
-
-I believe the best way to learn is by doing, so I keep working on real projects that solve real problems. My dream is to grow into a professional **Software Developer** who builds products that actually make a difference.
-
-If you have an opportunity or just want to talk tech — I'm always open. 💼
+Always learning. Always building. Open to opportunities. 💼
 
 ---
 
@@ -48,9 +43,6 @@ If you have an opportunity or just want to talk tech — I'm always open. 💼
   </a>
   <a href="https://www.linkedin.com/in/faysal393/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.youtube.com/" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
   <a href="https://faysalhasanmd.github.io/faysal.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=github&logoColor=white"/>
