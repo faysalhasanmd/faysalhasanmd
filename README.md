@@ -1,8 +1,5 @@
 ![Banner](https://github.com/faysalhasanmd/faysalhasanmd/raw/main/Banner.jpg?raw=true)
 
-<h1 align="center">Md. Faysal Hasan</h1>
-<h3 align="center">✦ MERN Stack Developer ✦</h3>
-
 ---
 
 ## 👨‍💻 About Me
