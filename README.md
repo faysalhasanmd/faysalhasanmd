@@ -24,4 +24,10 @@ Hi there! I'm **Md. Faysal Hasan**, a passionate **MERN Stack Developer** and st
 
 ## 📊 GitHub Stats
 
-![Faysal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faysalhasanmd&show_icons=true&theme=dark)
+![Faysal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faysalhasanmd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faysalhasanmd&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=faysalhasanmd&theme=tokyonight&hide_border=true)
+
+![Profile Views](https://komarev.com/ghpvc/?username=faysalhasanmd&color=00c853&style=flat-square&label=Profile+Views)
