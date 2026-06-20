@@ -1,25 +1,76 @@
-![Banner](https://github.com/faysalhasanmd/faysalhasanmd/blob/main/Banner.jpg?raw=true)
+![Banner](https://github.com/faysalhasanmd/mdfaysalhasan/blob/main/Banner.jpg?raw=true)
+
+<h1 align="center">Md. Faysal Hasan</h1>
+<h3 align="center">✦ MERN Stack Developer ✦</h3>
+
+---
+
 ## 👨‍💻 About Me
 
-Hi there! I'm **Md. Faysal Hasan**, a passionate **MERN Stack Developer** and student, i loves building modern web applications.
+Hey! I'm **Md. Faysal Hasan** — a student who fell in love with coding and never looked back.
+I build things for the web using the **MERN Stack** and I genuinely enjoy every part of it,
+from designing the UI to making the server work just right.
 
-- I'm currently working with **MongoDB, Express.js, React & Node.js**
-- I'm constantly learning and improving my skills in **Full Stack Web Development**
-- I love turning ideas into real-world web applications
-- My goal is to become a professional software Developer
-- **Open to work** — available for full-time opportunities
+Right now I'm deep into **MongoDB, Express.js, React & Node.js** — always building, always breaking things, always learning. That's just how it goes!
+
+I believe the best way to learn is by doing, so I keep working on real projects that solve real problems. My dream is to grow into a professional **Software Developer** who builds products that actually make a difference.
+
+If you have an opportunity or just want to talk tech — I'm always open. 💼
 
 ---
+
+## 🚀 What I'm Up To
+
+- 🔭 Currently exploring **Next.js** and server-side rendering
+- 🌱 Working on a **tourism website** project
+- 💡 Learning best practices in **full stack development**
+- 🎯 Building my **portfolio** to showcase real-world projects
+- 💼 **Open to work** — available for full-time opportunities
+
+---
+
 ## 🛠️ Skills & Technologies
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
+## 🌐 Connect With Me
 
+<p align="left">
+  <a href="https://www.facebook.com/md.faysal.751946" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/faysal393/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.youtube.com/" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://faysalhasanmd.github.io/faysal.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=faysalhasanmd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faysalhasanmd&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=faysalhasanmd&theme=tokyonight&hide_border=true" width="60%"/>
+</p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=faysalhasanmd&color=00c853&style=flat-square&label=Profile+Views)
