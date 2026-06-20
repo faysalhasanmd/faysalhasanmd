@@ -13,11 +13,11 @@ Always learning. Always building. Open to opportunities. 💼
 
 ## 🚀 What I'm Up To
 
-- 🔭 Currently exploring **Next.js** and server-side rendering
-- 🌱 Working on a **Vehicle Cleaning Service Website** project
-- 💡 Learning best practices in **full stack development**
-- 🎯 Building my **portfolio** to showcase real-world projects
-- 💼 **Open to work** — available for full-time opportunities
+- Currently exploring **Next.js** and server-side rendering
+- Working on a **Vehicle Cleaning Service Website** project
+- Learning best practices in **full stack development**
+- Building my **portfolio** to showcase real-world projects
+- **Open to work** — available for full-time opportunities
 
 ---
 
