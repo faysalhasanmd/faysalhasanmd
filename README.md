@@ -22,8 +22,4 @@ Hi there! I'm **Md. Faysal Hasan**, a passionate **MERN Stack Developer** and st
 
 ---
 
-## 📊 GitHub Stats
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faysalhasanmd&layout=compact&theme=tokyonight&hide_border=true)
 
