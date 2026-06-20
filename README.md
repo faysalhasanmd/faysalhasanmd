@@ -1,4 +1,4 @@
-![Banner](https://github.com/faysalhasanmd/mdfaysalhasan/blob/main/Banner.jpg?raw=true)
+![Banner](https://github.com/faysalhasanmd/faysalhasanmd/raw/main/Banner.jpg?raw=true)
 
 <h1 align="center">Md. Faysal Hasan</h1>
 <h3 align="center">✦ MERN Stack Developer ✦</h3>
@@ -11,7 +11,7 @@ Hey! I'm **Md. Faysal Hasan** — a student who fell in love with coding and nev
 I build things for the web using the **MERN Stack** and I genuinely enjoy every part of it,
 from designing the UI to making the server work just right.
 
-Right now I'm deep into **MongoDB, Express.js, React & Node.js** — always building, always breaking things, always learning. That's just how it goes!
+Right now I'm deep into **MongoDB, Express.js, Next.js, React & Node.js** — always building, always breaking things, always learning. That's just how it goes!
 
 I believe the best way to learn is by doing, so I keep working on real projects that solve real problems. My dream is to grow into a professional **Software Developer** who builds products that actually make a difference.
 
@@ -22,7 +22,7 @@ If you have an opportunity or just want to talk tech — I'm always open. 💼
 ## 🚀 What I'm Up To
 
 - 🔭 Currently exploring **Next.js** and server-side rendering
-- 🌱 Working on a **tourism website** project
+- 🌱 Working on a **Vehicle Cleaning Service Website** project
 - 💡 Learning best practices in **full stack development**
 - 🎯 Building my **portfolio** to showcase real-world projects
 - 💼 **Open to work** — available for full-time opportunities
@@ -62,15 +62,3 @@ If you have an opportunity or just want to talk tech — I'm always open. 💼
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=faysalhasanmd&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faysalhasanmd&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=faysalhasanmd&theme=tokyonight&hide_border=true" width="60%"/>
-</p>
-
-![Profile Views](https://komarev.com/ghpvc/?username=faysalhasanmd&color=00c853&style=flat-square&label=Profile+Views)
