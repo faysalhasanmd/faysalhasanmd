@@ -1,4 +1,4 @@
-make professional github account : ![Banner](https://github.com/faysalhasanmd/faysalhasanmd/raw/main/Banner.jpg?raw=true)
+![Banner](https://github.com/faysalhasanmd/faysalhasanmd/raw/main/Banner.jpg?raw=true)
 ---
 # Hi there, I'm Md. Faysal Hasan 👋
  
