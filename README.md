@@ -1,6 +1,8 @@
 ![Banner](https://github.com/faysalhasanmd/faysalhasanmd/raw/main/Banner.jpg?raw=true)
 ---
-# Hi there, I'm Md. Faysal Hasan 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Md.+Faysal+Hasan+%F0%9F%91%8B;MERN+Stack+Developer;Always+Learning.+Always+Building." alt="Typing SVG" />
+</h1>
  
 **MERN Stack Developer · Full Stack Enthusiast · Open to Opportunities**
  
@@ -39,4 +41,3 @@ Always learning. Always building. Open to opportunities.
     <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
----
