@@ -76,36 +76,6 @@ Always learning. Always building. Open to opportunities. 💼
   </tr>
 </table>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faysalhasanmd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faysalhasanmd&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=faysalhasanmd&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=faysalhasanmd&theme=tokyonight&no-frame=false&margin-w=4" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faysalhasanmd&theme=tokyo-night" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
@@ -121,11 +91,8 @@ Always learning. Always building. Open to opportunities. 💼
   </a>
 </p>
 
----
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=faysalhasanmd&color=0e75b6&style=flat&label=Profile+Views" />
-</p>
+
 
 <p align="center">
   <em>"Code is like humor. When you have to explain it, it's bad." — Cory House</em>
