@@ -1,48 +1,115 @@
 ![Banner](https://github.com/faysalhasanmd/faysalhasanmd/raw/main/Banner.jpg?raw=true)
+
 ---
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Md.+Faysal+Hasan+%F0%9F%91%8B;MERN+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Md.+Faysal+Hasan+%F0%9F%91%8B;MERN+Stack+Developer;Always+Learning.+Always+Building." alt="Typing SVG" />
 </h1>
- 
-**MERN Stack Developer - Full Stack Enthusiast · Open to Opportunities**
- 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00C853?style=for-the-badge&logoColor=white)](https://faysalhasanmd.github.io/faysal.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faysal393/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/md.faysal.751946)
+
+<p align="center">
+  <strong>MERN Stack Developer · Full Stack Enthusiast · Open to Opportunities</strong>
+</p>
+
+<p align="center">
+  <a href="https://faysalhasanmd.github.io/faysal.github.io/">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-00C853?style=for-the-badge&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/faysal393/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/md.faysal.751946">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 ## 👨‍💻 About Me
-I'm **Md. Faysal Hasan**, a passionate **MERN Stack Developer** and student from Green University of Bangladesh.
-I love building clean, real-world web apps — from UI to server — using **MongoDB, Express.js, React, Next.js & Node.js**.
-Always learning. Always building. Open to opportunities.
+
+I'm **Md. Faysal Hasan**, a passionate **MERN Stack Developer** and student from **Green University of Bangladesh**.  
+I love building clean, real-world web apps — from UI to server — using **MongoDB, Express.js, React, Next.js & Node.js**.  
+Always learning. Always building. Open to opportunities. 💼
+
+---
+
 ## 🚀 What I'm Up To
-- Currently exploring **Next.js** and server-side rendering
-- Working on a **Vehicle Cleaning Service Website** project
-- Learning best practices in **full stack development**
-- Building my **portfolio** to showcase real-world projects
-- **Open to work** — available for full-time opportunities
+
+- 🔭 Currently exploring **Next.js** and server-side rendering
+- 🚗 Working on a **Vehicle Cleaning Service Website** project
+- 📚 Learning best practices in **full stack development**
+- 🎨 Building my **portfolio** to showcase real-world projects
+- 💼 **Open to work** — available for full-time opportunities
+
+---
+
 ## 🛠️ Skills & Technologies
 
-**Frontend**
+<table>
+  <tr>
+    <td valign="top" width="33%">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html" width="40" title="HTML5" />
+<img src="https://skillicons.dev/icons?i=css" width="40" title="CSS3" />
+<img src="https://skillicons.dev/icons?i=js" width="40" title="JavaScript" />
+<img src="https://skillicons.dev/icons?i=react" width="40" title="React.js" />
+<img src="https://skillicons.dev/icons?i=nextjs" width="40" title="Next.js" />
+<img src="https://skillicons.dev/icons?i=tailwind" width="40" title="Tailwind CSS" />
 
-**Backend & Database**
+</td>
+    <td valign="top" width="33%">
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+### ⚙️ Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs" width="40" title="Node.js" />
+<img src="https://skillicons.dev/icons?i=express" width="40" title="Express.js" />
+<img src="https://skillicons.dev/icons?i=mongodb" width="40" title="MongoDB" />
 
-**Tools & Version Control**
+</td>
+    <td valign="top" width="33%">
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-🌐 Connect With Me
-<p align="left">
+### 🧰 Tools & Version Control
+<img src="https://skillicons.dev/icons?i=git" width="40" title="Git" />
+<img src="https://skillicons.dev/icons?i=github" width="40" title="GitHub" />
+<img src="https://skillicons.dev/icons?i=vscode" width="40" title="VS Code" />
+
+</td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=faysalhasanmd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faysalhasanmd&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=faysalhasanmd&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=faysalhasanmd&theme=tokyonight&no-frame=false&margin-w=4" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faysalhasanmd&theme=tokyo-night" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
   <a href="https://www.facebook.com/md.faysal.751946" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
@@ -50,8 +117,16 @@ Always learning. Always building. Open to opportunities.
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://faysalhasanmd.github.io/faysal.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/🌐 Portfolio-00C853?style=for-the-badge&logoColor=white"/>
   </a>
 </p>
 
+---
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=faysalhasanmd&color=0e75b6&style=flat&label=Profile+Views" />
+</p>
+
+<p align="center">
+  <em>"Code is like humor. When you have to explain it, it's bad." — Cory House</em>
+</p>
