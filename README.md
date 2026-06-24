@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faysal393/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/md.faysal.751946)
 ## 👨‍💻 About Me
-I'm **Md. Faysal Hasan**, a passionate **MERN Stack Developer** and student from Bangladesh.
+I'm **Md. Faysal Hasan**, a passionate **MERN Stack Developer** and student from Green University of Bangladesh.
 I love building clean, real-world web apps — from UI to server — using **MongoDB, Express.js, React, Next.js & Node.js**.
 Always learning. Always building. Open to opportunities. 💼
 ---
