@@ -3,6 +3,10 @@ make professional github account : ![Banner](https://github.com/faysalhasanmd/fa
 # Hi there, I'm Md. Faysal Hasan 👋
  
 **MERN Stack Developer · Full Stack Enthusiast · Open to Opportunities**
+ 
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00C853?style=for-the-badge&logoColor=white)](https://faysalhasanmd.github.io/faysal.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faysal393/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/md.faysal.751946)
 ## 👨‍💻 About Me
 I'm **Md. Faysal Hasan**, a passionate **MERN Stack Developer** and student from Bangladesh.
 I love building clean, real-world web apps — from UI to server — using **MongoDB, Express.js, React, Next.js & Node.js**.
