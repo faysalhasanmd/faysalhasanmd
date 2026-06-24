@@ -3,15 +3,8 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Md.+Faysal+Hasan+%F0%9F%91%8B;MERN+Stack+Developer" alt="Typing SVG" />
 </h1>
-**MERN Stack Developer**
-
-![React](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
  
-**Full Stack Enthusiast · Open to Opportunities**
+**MERN Stack Developer - Full Stack Enthusiast · Open to Opportunities**
  
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-00C853?style=for-the-badge&logoColor=white)](https://faysalhasanmd.github.io/faysal.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faysal393/)
