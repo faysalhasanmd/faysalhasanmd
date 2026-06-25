@@ -1,8 +1,9 @@
 ![Banner](https://github.com/faysalhasanmd/faysalhasanmd/raw/main/Banner.jpg?raw=true)
 
 ---
-
-<h1 align="center"> I'am, Md. Faysal Hasan 👋</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C853&height=140&section=header&text=I'm%20Md.%20Faysal%20Hasan%20&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Welcome%20to%20my%20GitHub%20Profile&descSize=14&descAlignY=62&descColor=cccccc"/>
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Full+Stack+Engineer;React+%7C+Node+%7C+MongoDB" alt="Typing SVG" />
