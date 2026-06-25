@@ -2,9 +2,11 @@
 
 ---
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Md.+Faysal+Hasan+%F0%9F%91%8B;MERN+Stack+Developer;" alt="Typing SVG" />
-</h1>
+<h1 align="center">Md. Faysal Hasan 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Full+Stack+Engineer;React+%7C+Node+%7C+MongoDB" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <strong>MERN Stack Developer · Full Stack Enthusiast · Open to Opportunities</strong>
