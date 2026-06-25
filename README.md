@@ -47,12 +47,23 @@ Always learning. Always building. Open to opportunities. 💼
 
 ## 🛠️ Skills & Technologies
 
-### 🎨 Frontend
+### 🌐 Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=html" width="48" title="HTML5" />&nbsp;
   <img src="https://skillicons.dev/icons?i=css" width="48" title="CSS3" />&nbsp;
   <img src="https://skillicons.dev/icons?i=js" width="48" title="JavaScript" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=ts" width="48" title="TypeScript" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=py" width="48" title="Python" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=c" width="48" title="C" />
+</p>
+
+---
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=css" width="48" title="CSS3" />&nbsp;
   <img src="https://skillicons.dev/icons?i=react" width="48" title="React.js" />&nbsp;
   <img src="https://skillicons.dev/icons?i=nextjs" width="48" title="Next.js" />&nbsp;
   <img src="https://skillicons.dev/icons?i=tailwind" width="48" title="Tailwind CSS" />
@@ -70,6 +81,15 @@ Always learning. Always building. Open to opportunities. 💼
 
 ---
 
+### 🎭 Design
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" width="48" title="Figma" />&nbsp;
+  <img src="https://img.icons8.com/fluency/48/canva.png" width="48" title="Canva" />
+</p>
+
+---
+
 ### 🧰 Tools & Version Control
 
 <p>
@@ -83,13 +103,13 @@ Always learning. Always building. Open to opportunities. 💼
 
 <p align="center">
   <a href="https://www.facebook.com/md.faysal.751946" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
+    <img src="https://img.icons8.com/fluency/52/facebook-new.png" width="52" title="Facebook" />
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/faysal393/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+    <img src="https://img.icons8.com/fluency/52/linkedin.png" width="52" title="LinkedIn" />
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://faysalhasanmd.github.io/faysal.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-00C853?style=for-the-badge&logoColor=white"/>
+    <img src="https://img.icons8.com/fluency/52/internet.png" width="52" title="Portfolio" />
   </a>
 </p>
 
