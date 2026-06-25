@@ -13,14 +13,14 @@
 </p>
 
 <p align="center">
-  <a href="https://faysalhasanmd.github.io/faysal.github.io/">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-00C853?style=for-the-badge&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/faysal393/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.facebook.com/md.faysal.751946">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  <a href="https://faysalhasanmd.github.io/faysal.github.io/" target="_blank">
+    <img src="https://img.icons8.com/fluency/52/internet.png" width="52" title="Portfolio" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/faysal393/" target="_blank">
+    <img src="https://img.icons8.com/fluency/52/linkedin.png" width="52" title="LinkedIn" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/md.faysal.751946" target="_blank">
+    <img src="https://img.icons8.com/fluency/52/facebook-new.png" width="52" title="Facebook" />
   </a>
 </p>
 
