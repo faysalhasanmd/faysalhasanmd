@@ -46,37 +46,36 @@ Always learning. Always building. Open to opportunities. 💼
 
 ## 🛠️ Skills & Technologies
 
-<table>
-  <tr>
-    <td valign="top" width="33%">
-
 ### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=html" width="40" title="HTML5" />
-<img src="https://skillicons.dev/icons?i=css" width="40" title="CSS3" />
-<img src="https://skillicons.dev/icons?i=js" width="40" title="JavaScript" />
-<img src="https://skillicons.dev/icons?i=react" width="40" title="React.js" />
-<img src="https://skillicons.dev/icons?i=nextjs" width="40" title="Next.js" />
-<img src="https://skillicons.dev/icons?i=tailwind" width="40" title="Tailwind CSS" />
 
-</td>
-    <td valign="top" width="33%">
+<p>
+  <img src="https://skillicons.dev/icons?i=html" width="48" title="HTML5" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="48" title="CSS3" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" width="48" title="JavaScript" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" width="48" title="React.js" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs" width="48" title="Next.js" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind" width="48" title="Tailwind CSS" />
+</p>
+
+---
 
 ### ⚙️ Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs" width="40" title="Node.js" />
-<img src="https://skillicons.dev/icons?i=express" width="40" title="Express.js" />
-<img src="https://skillicons.dev/icons?i=mongodb" width="40" title="MongoDB" />
 
-</td>
-    <td valign="top" width="33%">
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48" title="Node.js" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=express" width="48" title="Express.js" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" width="48" title="MongoDB" />
+</p>
+
+---
 
 ### 🧰 Tools & Version Control
-<img src="https://skillicons.dev/icons?i=git" width="40" title="Git" />
-<img src="https://skillicons.dev/icons?i=github" width="40" title="GitHub" />
-<img src="https://skillicons.dev/icons?i=vscode" width="40" title="VS Code" />
 
-</td>
-  </tr>
-</table>
+<p>
+  <img src="https://skillicons.dev/icons?i=git" width="48" title="Git" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="48" title="GitHub" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" width="48" title="VS Code" />
+</p>
 
 
 ## 🌐 Connect With Me
