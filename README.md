@@ -53,7 +53,6 @@ Always learning. Always building. Open to opportunities. 💼
   <img src="https://skillicons.dev/icons?i=html" width="48" title="HTML5" />&nbsp;
   <img src="https://skillicons.dev/icons?i=css" width="48" title="CSS3" />&nbsp;
   <img src="https://skillicons.dev/icons?i=js" width="48" title="JavaScript" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=ts" width="48" title="TypeScript" />&nbsp;
   <img src="https://skillicons.dev/icons?i=py" width="48" title="Python" />&nbsp;
   <img src="https://skillicons.dev/icons?i=c" width="48" title="C" />
 </p>
