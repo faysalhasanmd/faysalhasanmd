@@ -27,7 +27,7 @@
 ## 👨‍💻 About Me
 
 I'm **Md. Faysal Hasan**, a passionate **MERN Stack Developer** and student from **Green University of Bangladesh**.  
-I love building clean, real-world web apps — from UI to server — using **MongoDB, Express.js, React, Next.js & Node.js**.  
+I love building clean, real-world web apps - from UI to server — using **MongoDB, Express.js, React, Next.js & Node.js**.  
 Always learning. Always building. Open to opportunities. 💼
 
 ---
@@ -38,7 +38,7 @@ Always learning. Always building. Open to opportunities. 💼
 - 🚗 Working on a **Vehicle Cleaning Service Website** project
 - 📚 Learning best practices in **full stack development**
 - 🎨 Building my **portfolio** to showcase real-world projects
-- 💼 **Open to work** — available for full-time opportunities
+- 💼 **Open to work** - available for full-time opportunities
 
 ---
 
