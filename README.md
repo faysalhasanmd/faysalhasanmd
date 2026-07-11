@@ -1,13 +1,6 @@
 ![Banner](https://raw.githubusercontent.com/faysalhasanmd/faysalhasanmd/main/Banner.jpg)
 
 ---
-<div align="center">
-  <!-- Unique & Glowing Name Header -->
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=00C853&height=160&section=header&text=⚡%20Md.%20Faysal%20Hasan%20⚡&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=45&desc=💻%20Building%20the%20Future%20with%20Code&descSize=16&descAlignY=70&descColor=e0e0e0"/>
-
-  
-  ---
-</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Full+Stack+Engineer;React+%7C+Node+%7C+MongoDB" alt="Typing SVG" />
