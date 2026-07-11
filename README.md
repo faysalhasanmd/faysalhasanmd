@@ -1,4 +1,4 @@
-![Banner](https://github.com/faysalhasanmd/faysalhasanmd/raw/main/Banner.jpg?raw=true)
+![Banner]()
 
 ---
 <div align="center">
