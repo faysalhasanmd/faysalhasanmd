@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://faysalhasanmd.github.io/faysal.github.io/" target="_blank">
+  <a href="https://my-protfolio-ten-kohl.vercel.app/" target="_blank">
     <img src="https://img.icons8.com/fluency/52/internet.png" width="52" title="Portfolio" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/faysal393/" target="_blank">
@@ -104,7 +104,7 @@ Always learning. Always building. Open to opportunities. 💼
   <a href="https://www.linkedin.com/in/faysal393/" target="_blank">
     <img src="https://img.icons8.com/fluency/52/linkedin.png" width="52" title="LinkedIn" />
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://faysalhasanmd.github.io/faysal.github.io/" target="_blank">
+  <a href="https://my-protfolio-ten-kohl.vercel.app/" target="_blank">
     <img src="https://img.icons8.com/fluency/52/internet.png" width="52" title="Portfolio" />
   </a>
 </p>
