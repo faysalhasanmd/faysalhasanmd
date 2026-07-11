@@ -9,11 +9,6 @@
 
   <!-- Animated Role Text -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00C853&center=true&vCenter=true&width=500&height=40&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Welcome+to+my+digital+space%E2%9C%A8" alt="Typing SVG" />
-
-  <p align="center">
-    <img src="https://img.shields.io/badge/Status-Open%20To%20Work-00C853?style=flat-square&logo=github&logoColor=white" alt="Status" />
-    <img src="https://img.shields.io/badge/Tech-Full%20Stack-171b22?style=flat-square&logo=react&logoColor=00C853" alt="Tech" />
-  </p>
   
   ---
 </div>
