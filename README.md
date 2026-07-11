@@ -5,10 +5,6 @@
   <!-- Unique & Glowing Name Header -->
   <img src="https://capsule-render.vercel.app/api?type=soft&color=00C853&height=160&section=header&text=⚡%20Md.%20Faysal%20Hasan%20⚡&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=45&desc=💻%20Building%20the%20Future%20with%20Code&descSize=16&descAlignY=70&descColor=e0e0e0"/>
 
-  <br />
-
-  <!-- Animated Role Text -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00C853&center=true&vCenter=true&width=500&height=40&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Welcome+to+my+digital+space%E2%9C%A8" alt="Typing SVG" />
   
   ---
 </div>
