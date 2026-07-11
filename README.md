@@ -1,14 +1,7 @@
 ![Banner](https://raw.githubusercontent.com/faysalhasanmd/faysalhasanmd/main/Banner.jpg)
 
 ---
-<div align="center">
-  <!-- Minimalist Banner & Badges -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&width=600&height=70&lines=Hi+,+I'm+Md.+Faysal+Hasan;Full+Stack+Web+Developer;Welcome+to+my+GitHub+!+" alt="Typing SVG" />
 
-  <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://img.shields.io/badge/Role-Full--Stack%20Developer-00C853?style=for-the-badge&logo=react&logoColor=white" alt="Role" /></a>
-    <img src="https://img.shields.io/github/followers/FaysalHasan?label=Followers&style=for-the-badge&color=171b22&logo=github" alt="Followers" />
-  </p>
 
   ---
 </div>
