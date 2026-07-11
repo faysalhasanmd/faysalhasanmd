@@ -2,7 +2,7 @@
 
 ---
 <div align="center">
-  <img src="https://raw.githubusercontent.com/faysalhasanmd/faysalhasanmd/main/github_banner.svg" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C853&height=140&section=header&text=I'm%20Md.%20Faysal%20Hasan%20&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Welcome%20to%20my%20GitHub%20Profile&descSize=14&descAlignY=62&descColor=cccccc"/>
 </div>
 
 <p align="center">
