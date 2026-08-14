@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <strong>MERN Stack Developer · Full Stack Enthusiast · Open to Opportunities</strong>
+  <strong>Full Stack Developer · Open to Opportunities</strong>
 </p>
 
 <p align="center">
@@ -26,8 +26,8 @@
 
 ## 👨‍💻 About Me
 
-I'm **Md. Faysal Hasan**, a passionate **MERN Stack Developer** and student from **Green University of Bangladesh**.  
-I love building clean, real- world web apps - from UI to server - using **MongoDB, Express.js, React, Next.js & Node.js**.  
+I'm **Md. Faysal Hasan**, a passionate **Full Stack Developer** and student from **Green University of Bangladesh**.  
+I love building clean, real- world web apps - from UI to server - using **MongoDB, Express.js,PostgreSQL, Prisma, React, Next.js & Node.js**.  
 Always learning. Always building. Open to opportunities. 💼
 
 ---
@@ -43,9 +43,7 @@ Always learning. Always building. Open to opportunities. 💼
 ---
 
 ## 🛠️ Skills & Technologies
-
 ### 🌐 Languages
-
 <p>
   <img src="https://skillicons.dev/icons?i=html" width="48" title="HTML5" />&nbsp;
   <img src="https://skillicons.dev/icons?i=css" width="48" title="CSS3" />&nbsp;
@@ -57,7 +55,6 @@ Always learning. Always building. Open to opportunities. 💼
 ---
 
 ### 🎨 Frontend
-
 <p>
   <img src="https://skillicons.dev/icons?i=css" width="48" title="CSS3" />&nbsp;
   <img src="https://skillicons.dev/icons?i=react" width="48" title="React.js" />&nbsp;
@@ -68,17 +65,17 @@ Always learning. Always building. Open to opportunities. 💼
 ---
 
 ### ⚙️ Backend & Database
-
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs" width="48" title="Node.js" />&nbsp;
   <img src="https://skillicons.dev/icons?i=express" width="48" title="Express.js" />&nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" width="48" title="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=mongodb" width="48" title="MongoDB" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" width="48" title="PostgreSQL" />&nbsp;
+  <img src="https://skillicons.dev/icons?i=prisma" width="48" title="Prisma" />
 </p>
 
 ---
 
 ### 🎭 Design
-
 <p>
   <img src="https://skillicons.dev/icons?i=figma" width="48" title="Figma" />&nbsp;
   <img src="https://img.icons8.com/fluency/48/canva.png" width="48" title="Canva" />
@@ -87,13 +84,11 @@ Always learning. Always building. Open to opportunities. 💼
 ---
 
 ### 🧰 Tools & Version Control
-
 <p>
   <img src="https://skillicons.dev/icons?i=git" width="48" title="Git" />&nbsp;
   <img src="https://skillicons.dev/icons?i=github" width="48" title="GitHub" />&nbsp;
   <img src="https://skillicons.dev/icons?i=vscode" width="48" title="VS Code" />
 </p>
-
 
 ## 🌐 Connect With Me
 
