@@ -1,4 +1,4 @@
-![Banner](https://github.com/faysalhasanmd/faysalhasanmd/blob/main/Banner.jpg)
+![Banner](https://github.com/faysalhasanmd/faysalhasanmd/blob/main/Banner.png)
 
 ---
 
